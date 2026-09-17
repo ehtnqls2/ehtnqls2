@@ -10,7 +10,7 @@
 
 ## 🛠 기술 스택
 
-`Verilog` `VHDL 개념 이해` `Vivado` `Zynq-7000 (PS-PL, AXI)` `Questa` `Quartus` `PSpice` `C` `Python`
+`Verilog` `Vivado` `Zynq-7000 (PS-PL, AXI)` `Questa` `Quartus` `PSpice` `C` `Python`
 
 ---
 
